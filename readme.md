@@ -151,130 +151,292 @@ A curated list of psychometric evaluations of Large Language Models (LLMs)  Brid
 
 - (*Big Five*) **Dynamic Evaluation of Large Language Models by Meta Probing Agents** [[paper](https://arxiv.org/abs/2402.14865)] [[code](https://github.com/microsoft/promptbench)]
 
-- (*HEXACO*) **On the Psychology of GPT-4: Moderately anxious, slightly masculine, honest, and humble**[[paper](https://arxiv.org/abs/2402.01777)]
+- (*HEXACO*) **On the Psychology of GPT-4: Moderately anxious, slightly masculine, honest, and humble** [[paper](https://arxiv.org/abs/2402.01777)]
 
-- (*HEXACO*) **Personality testing of large language models: limited temporal stability, but highlighted prosociality**[[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240180)]
+- (*HEXACO*) **Personality testing of large language models: limited temporal stability, but highlighted prosociality** [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240180)]
 
-- (*HEXACO*) **Who is GPT-3? An Exploration of Personality, Values and Demographics**[[paper](https://arxiv.org/abs/2209.14338)]
+- (*HEXACO*) **Who is GPT-3? An Exploration of Personality, Values and Demographics** [[paper](https://arxiv.org/abs/2209.14338)]
 
-- (*HEXACO*) **Cognitive phantoms in LLMs through the lens of latent variables**[[paper](https://arxiv.org/abs/2409.15324)]
+- (*HEXACO*) **Cognitive phantoms in LLMs through the lens of latent variables** [[paper](https://arxiv.org/abs/2409.15324)]
 
-- (*HEXACO*) **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**[[paper](https://arxiv.org/abs/2406.04214)][[code](https://github.com/Value4AI/ValueBench)]
+- (*HEXACO*) **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models** [[paper](https://arxiv.org/abs/2406.04214)][[code](https://github.com/Value4AI/ValueBench)]
 
-- (*HEXACO*) **Exploring the Impact of Personality Traits on LLM Bias and Toxicity**[[paper](https://arxiv.org/abs/2502.12566)]
+- (*HEXACO*) **Exploring the Impact of Personality Traits on LLM Bias and Toxicity** [[paper](https://arxiv.org/abs/2502.12566)]
 
-- (*MBTI*) **Machine Mindset: An MBTI Exploration of Large Language Models**[[paper](https://arxiv.org/abs/2312.12999 )][[code](https://github.com/PKU-YuanGroup/Machine-Mindset)]
+- (*MBTI*) **Machine Mindset: An MBTI Exploration of Large Language Models** [[paper](https://arxiv.org/abs/2312.12999 )][[code](https://github.com/PKU-YuanGroup/Machine-Mindset)]
 
-- (*MBTI*) **Revisiting the Reliability of Psychological Scales on Large Language Models**[[paper](https://arxiv.org/abs/2305.19926)]
+- (*MBTI*) **Revisiting the Reliability of Psychological Scales on Large Language Models** [[paper](https://arxiv.org/abs/2305.19926)]
 
-- (*MBTI*) **Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Models**[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32125)]
+- (*MBTI*) **Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Models** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32125)]
 
-- (*MBTI*) **Illuminating the Black Box: A Psychometric Investigation into the Multifaceted Nature of Large Language Models**[[paper](https://arxiv.org/abs/2312.14202)]
+- (*MBTI*) **Illuminating the Black Box: A Psychometric Investigation into the Multifaceted Nature of Large Language Models** [[paper](https://arxiv.org/abs/2312.14202)]
 
-- (*MBTI*) **Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models**[[paper](https://arxiv.org/abs/2307.16180)][[code](https://github.com/HarderThenHarder/transformers_tasks/tree/main/LLM/llms_mbti)]
+- (*MBTI*) **Do LLMs Possess a Personality? Making the MBTI Test an Amazing Evaluation for Large Language Models** [[paper](https://arxiv.org/abs/2307.16180)][[code](https://github.com/HarderThenHarder/transformers_tasks/tree/main/LLM/llms_mbti)]
 
-- (*MBTI*) **Can ChatGPT Assess Human Personalities? A General Evaluation Framework**[[paper](https://arxiv.org/abs/2303.01248)][[code](https://github.com/Kali-Hac/ChatGPT-MBTI)]
+- (*MBTI*) **Can ChatGPT Assess Human Personalities? A General Evaluation Framework** [[paper](https://arxiv.org/abs/2303.01248)][[code](https://github.com/Kali-Hac/ChatGPT-MBTI)]
 
-- (*MBTI*) **Identifying Multiple Personalities in Large Language Models with External Evaluation**[[paper](https://arxiv.org/abs/2402.14805)]
+- (*MBTI*) **Identifying Multiple Personalities in Large Language Models with External Evaluation** [[paper](https://arxiv.org/abs/2402.14805)]
 
-- (*MBTI*) **The Better Angels of Machine Personality: How Personality Relates to LLM Safety**[[paper](https://arxiv.org/abs/2407.12344)]
+- (*MBTI*) **The Better Angels of Machine Personality: How Personality Relates to LLM Safety** [[paper](https://arxiv.org/abs/2407.12344)]
 
-- (*DarkTriad*) **On the Psychology of GPT-4: Moderately anxious, slightly masculine, honest, and humble**[[paper](https://arxiv.org/abs/2402.01777)]
+- (*DarkTriad*) **On the Psychology of GPT-4: Moderately anxious, slightly masculine, honest, and humble** [[paper](https://arxiv.org/abs/2402.01777)]
 
-- (*DarkTriad*) **Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench**[[paper](https://arxiv.org/abs/2310.01386)][[code](https://github.com/CUHK-ARISE/PsychoBench)]
+- (*DarkTriad*) **Who is ChatGPT? Benchmarking LLMs' Psychological Portrayal Using PsychoBench** [[paper](https://arxiv.org/abs/2310.01386)][[code](https://github.com/CUHK-ARISE/PsychoBench)]
 
-- (*DarkTriad*) **Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics**[[paper](https://arxiv.org/abs/2406.14703)]
+- (*DarkTriad*) **Do LLMs Have Distinct and Consistent Personality? TRAIT: Personality Testset designed for LLMs with Psychometrics** [[paper](https://arxiv.org/abs/2406.14703)]
 
-- (*DarkTriad*) **Evaluating Psychological Safety of Large Language Models**[[paper](https://arxiv.org/abs/2212.10529)]
+- (*DarkTriad*) **Evaluating Psychological Safety of Large Language Models** [[paper](https://arxiv.org/abs/2212.10529)]
 
-- (*DarkTriad*) **Illuminating the Black Box: A Psychometric Investigation into the Multifaceted Nature of Large Language Models**[[paper](https://arxiv.org/abs/2312.14202)]
+- (*DarkTriad*) **Illuminating the Black Box: A Psychometric Investigation into the Multifaceted Nature of Large Language Models** [[paper](https://arxiv.org/abs/2312.14202)]
 
-- (*DarkTriad*) **Cognitive phantoms in LLMs through the lens of latent variables**[[paper](https://arxiv.org/abs/2409.15324)]
+- (*DarkTriad*) **Cognitive phantoms in LLMs through the lens of latent variables** [[paper](https://arxiv.org/abs/2409.15324)]
 
-- (*DarkTriad*) **Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics**[[paper](https://arxiv.org/abs/2408.07377)]
+- (*DarkTriad*) **Do GPT Language Models Suffer From Split Personality Disorder? The Advent Of Substrate-Free Psychometrics** [[paper](https://arxiv.org/abs/2408.07377)]
 
-- (*Others&custom*) **Self-assessment, Exhibition, and Recognition: a Review of Personality in Large Language Models**[[paper](https://arxiv.org/abs/2406.17624)]
+- (*Others & custom*) **Self-assessment, Exhibition, and Recognition: a Review of Personality in Large Language Models** [[paper](https://arxiv.org/abs/2406.17624)]
 
-- (*Others&custom*) **Is Self-knowledge and Action Consistent or Not: Investigating Large Language Model's Personality**[[paper](https://arxiv.org/abs/2402.14679)]
+- (*Others & custom*) **Is Self-knowledge and Action Consistent or Not: Investigating Large Language Model's Personality** [[paper](https://arxiv.org/abs/2402.14679)]
 
-- (*Others&custom*) **Evaluating and Inducing Personality in Pre-trained Language Models**[[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/21f7b745f73ce0d1f9bcea7f40b1388e-Abstract-Conference.html)]
+- (*Others & custom*) **Evaluating and Inducing Personality in Pre-trained Language Models** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/21f7b745f73ce0d1f9bcea7f40b1388e-Abstract-Conference.html)]
 
-- (*Others&custom*) **Editing Personality For Large Language Models**[[paper](https://link.springer.com/chapter/10.1007/978-981-97-9434-8_19)]
+- (*Others & custom*) **Editing Personality For Large Language Models** [[paper](https://link.springer.com/chapter/10.1007/978-981-97-9434-8_19)]
 
-- (*Others&custom*) **Quantifying Risk Propensities of Large Language Models: Ethical Focus and Bias Detection through Role-Play**[[paper](https://arxiv.org/abs/2411.08884)]
+- (*Others & custom*) **Quantifying Risk Propensities of Large Language Models: Ethical Focus and Bias Detection through Role-Play** [[paper](https://arxiv.org/abs/2411.08884)]
 
 ### 📂 Values  
 
-- (*Schwartz*) **High-Dimension Human Value Representation in Large Language Models**[[paper](https://arxiv.org/abs/2404.07900)]
+- (*Schwartz*) **High-Dimension Human Value Representation in Large Language Models** [[paper](https://arxiv.org/abs/2404.07900)]
 
-- (*Schwartz*) **What does ChatGPT return about human values? Exploring value bias in ChatGPT using a descriptive value theory**[[paper](https://arxiv.org/abs/2304.03612)]
+- (*Schwartz*) **What does ChatGPT return about human values? Exploring value bias in ChatGPT using a descriptive value theory** [[paper](https://arxiv.org/abs/2304.03612)]
 
-- (*Schwartz*) **Assessing the Alignment of Large Language Models With Human Values for Mental Health Integration: Cross-Sectional Study Using Schwartz’s Theory of Basic Values**[[paper](https://mental.jmir.org/2024/1/e55988)]
+- (*Schwartz*) **Assessing the Alignment of Large Language Models With Human Values for Mental Health Integration: Cross-Sectional Study Using Schwartz’s Theory of Basic Values** [[paper](https://mental.jmir.org/2024/1/e55988)]
 
-- (*Schwartz*) **Large Language Models as Superpositions of Cultural Perspectives**[[paper](https://arxiv.org/abs/2307.07870)]
+- (*Schwartz*) **Large Language Models as Superpositions of Cultural Perspectives** [[paper](https://arxiv.org/abs/2307.07870)]
 
-- (*Schwartz*) **When Prompting Fails to Sway: Inertia in Moral and Value Judgments of Large Language Models**[[paper](https://arxiv.org/abs/2408.09049)]
+- (*Schwartz*) **When Prompting Fails to Sway: Inertia in Moral and Value Judgments of Large Language Models** [[paper](https://arxiv.org/abs/2408.09049)]
 
-- (*Schwartz*) **Value-Spectrum: Quantifying Preferences of Vision-Language Models via Value Decomposition in Social Media Contexts**[[paper](https://arxiv.org/abs/2411.11479)]
+- (*Schwartz*) **Value-Spectrum: Quantifying Preferences of Vision-Language Models via Value Decomposition in Social Media Contexts** [[paper](https://arxiv.org/abs/2411.11479)]
 
-- (*Schwartz*) **Who is GPT-3? An Exploration of Personality, Values and Demographics**[[paper](https://arxiv.org/abs/2209.14338)]
+- (*Schwartz*) **Who is GPT-3? An Exploration of Personality, Values and Demographics** [[paper](https://arxiv.org/abs/2209.14338)]
 
-- (*Schwartz*) **AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories**[[paper](https://journals.sagepub.com/doi/full/10.1177/17456916231214460)]
+- (*Schwartz*) **AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories** [[paper](https://journals.sagepub.com/doi/full/10.1177/17456916231214460)]
 
-- (*Schwartz*) **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**[[paper](https://arxiv.org/abs/2406.04214)][[code](https://github.com/Value4AI/ValueBench)]
+- (*Schwartz*) **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models** [[paper](https://arxiv.org/abs/2406.04214)][[code](https://github.com/Value4AI/ValueBench)]
 
 - (*Schwartz*) **Do LLMs have Consistent Values?**[[paper](https://arxiv.org/abs/2407.12878)]
 
-- (*Schwartz*) **ValueCompass: A Framework for Measuring Contextual Value Alignment Between Human and LLMs**[[paper](https://arxiv.org/abs/2409.09586)]
+- (*Schwartz*) **ValueCompass: A Framework for Measuring Contextual Value Alignment Between Human and LLMs** [[paper](https://arxiv.org/abs/2409.09586)]
 
-- (*Schwartz*) **Value FULCRA: Mapping Large Language Models to the Multidimensional Spectrum of Basic Human Values**[[paper](https://arxiv.org/abs/2311.10766)]
+- (*Schwartz*) **Value FULCRA: Mapping Large Language Models to the Multidimensional Spectrum of Basic Human Values** [[paper](https://arxiv.org/abs/2311.10766)]
 
-- (*Schwartz*) **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models**[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34839)]
+- (*Schwartz*) **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34839)]
 
-- (*Schwartz*) **ValueDCG: Measuring Comprehensive Human Value Understanding Ability of Language Models**[[paper](https://arxiv.org/abs/2310.00378)]
+- (*Schwartz*) **ValueDCG: Measuring Comprehensive Human Value Understanding Ability of Language Models** [[paper](https://arxiv.org/abs/2310.00378)]
 
-- (*WVS*) **ValueDCG: Measuring Comprehensive Human Value Understanding Ability of Language Models**[[paper](https://arxiv.org/abs/2310.00378)]
+- (*WVS*) **ValueDCG: Measuring Comprehensive Human Value Understanding Ability of Language Models** [[paper](https://arxiv.org/abs/2310.00378)]
 
-- (*WVS*) **Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models**[[paper](https://arxiv.org/abs/2503.16148)]
+- (*WVS*) **Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models** [[paper](https://arxiv.org/abs/2503.16148)]
 
-- (*WVS*) **Exploring Large Language Models on Cross-Cultural Values in Connection with Training Methodology**[[paper](https://arxiv.org/abs/2412.08846)]
+- (*WVS*) **Exploring Large Language Models on Cross-Cultural Values in Connection with Training Methodology** [[paper](https://arxiv.org/abs/2412.08846)]
 
-- (*WVS*) **Value Compass Leaderboard: A Platform for Fundamental and Validated Evaluation of LLMs Values**[[paper](https://arxiv.org/abs/2501.07071)]
+- (*WVS*) **Value Compass Leaderboard: A Platform for Fundamental and Validated Evaluation of LLMs Values** [[paper](https://arxiv.org/abs/2501.07071)]
 
-- (*VSM*) **How Well Do LLMs Represent Values Across Cultures? Empirical Analysis of LLM Responses Based on Hofstede Cultural Dimensions**[[paper](https://arxiv.org/abs/2406.14805)]
+- (*VSM*) **How Well Do LLMs Represent Values Across Cultures? Empirical Analysis of LLM Responses Based on Hofstede Cultural Dimensions** [[paper](https://arxiv.org/abs/2406.14805)]
 
-- (*VSM*) **Large Language Models as Superpositions of Cultural Perspective**s[[paper](https://arxiv.org/abs/2307.07870)][[code](https://gitlab.inria.fr/gkovac/value_stability)]
+- (*VSM*) **Large Language Models as Superpositions of Cultural Perspectives** [[paper](https://arxiv.org/abs/2307.07870)][[code](https://gitlab.inria.fr/gkovac/value_stability)]
 
-- (*VSM*) **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**[[paper](https://arxiv.org/abs/2406.04214)][[code](https://github.com/Value4AI/ValueBench)]
+- (*VSM*) **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models** [[paper](https://arxiv.org/abs/2406.04214)][[code](https://github.com/Value4AI/ValueBench)]
 
-- (*VSM*) **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models**[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34839)]
+- (*VSM*) **Measuring Human and AI Values Based on Generative Psychometrics with Large Language Models** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/34839)]
 
-- (*VSM*) **Cultural Value Differences of LLMs: Prompt, Language, and Model Size**[[paper](https://arxiv.org/abs/2407.16891)]
+- (*VSM*) **Cultural Value Differences of LLMs: Prompt, Language, and Model Size** [[paper](https://arxiv.org/abs/2407.16891)]
 
-- (*GLOBE*) **LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output**[[paper](https://arxiv.org/abs/2411.06032)]
+- (*GLOBE*) **LLM-GLOBE: A Benchmark Evaluating the Cultural Values Embedded in LLM Output** [[paper](https://arxiv.org/abs/2411.06032)]
 
-- (*GLOBE*) **Quantifying AI Psychology: A Psychometrics Benchmark for Large Language Models**[[paper](https://arxiv.org/abs/2406.17675)]
+- (*GLOBE*) **Quantifying AI Psychology: A Psychometrics Benchmark for Large Language Models** [[paper](https://arxiv.org/abs/2406.17675)]
 
 - (*GLOBE*) **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**
   [[paper](https://arxiv.org/abs/2406.04214)][[code](https://github.com/Value4AI/ValueBench)]
 
-- (*SVO*) **Heterogeneous Value Alignment Evaluation for Large Language Models**[[paper](https://arxiv.org/abs/2305.17147)][[code](https://github.com/zowiezhang/HVAE)]
+- (*SVO*) **Heterogeneous Value Alignment Evaluation for Large Language Models** [[paper](https://arxiv.org/abs/2305.17147)][[code](https://github.com/zowiezhang/HVAE)]
 
-- (*Others&custom*) **Beyond Human Norms: Unveiling Unique Values of Large Language Models through Interdisciplinary Approaches**[[paper](https://arxiv.org/abs/2404.12744)]
+- (*Others & custom*) **Beyond Human Norms: Unveiling Unique Values of Large Language Models through Interdisciplinary Approaches** [[paper](https://arxiv.org/abs/2404.12744)]
 
-- (*Others&custom*) **Raising the Bar: Investigating the Values of Large Language Models via Generative Evolving Testing**[[paper](https://arxiv.org/abs/2406.14230)]
+- (*Others & custom*) **Raising the Bar: Investigating the Values of Large Language Models via Generative Evolving Testing** [[paper](https://arxiv.org/abs/2406.14230)]
 
-- (*Others&custom*) **Quantifying AI Psychology: A Psychometrics Benchmark for Large Language Models**[[paper](https://arxiv.org/abs/2406.17675)]
+- (*Others & custom*) **Quantifying AI Psychology: A Psychometrics Benchmark for Large Language Models** [[paper](https://arxiv.org/abs/2406.17675)]
 
-- (*Others&custom*) **Measuring Spiritual Values and Bias of Large Language Models**[[paper](https://arxiv.org/abs/2410.11647)]
+- (*Others & custom*) **Measuring Spiritual Values and Bias of Large Language Models** [[paper](https://arxiv.org/abs/2410.11647)]
 
-- (*Others&custom*) **LocalValueBench: A Collaboratively Built and Extensible Benchmark for Evaluating Localized Value Alignment and Ethical Safety in Large Language Models**[[paper](https://arxiv.org/abs/2408.01460)]
+- (*Others & custom*) **LocalValueBench: A Collaboratively Built and Extensible Benchmark for Evaluating Localized Value Alignment and Ethical Safety in Large Language Models** [[paper](https://arxiv.org/abs/2408.01460)]
 
-- (*Others&custom*) **Are Large Language Models Consistent over Value-laden Questions?**[[paper](https://arxiv.org/abs/2407.02996)]
+- (*Others & custom*) **Are Large Language Models Consistent over Value-laden Questions?** [[paper](https://arxiv.org/abs/2407.02996)]
 
-- (*Others&custom*) **CValues: Measuring the Values of Chinese Large Language Models from Safety to Responsibility**[[paper](https://arxiv.org/abs/2307.09705)]
+- (*Others & custom*) **CValues: Measuring the Values of Chinese Large Language Models from Safety to Responsibility** [[paper](https://arxiv.org/abs/2307.09705)]
 
-- (*Others&custom*) **DO MINDFULNESS ACTIVITIES IMPROVE HANDGRIP STRENGTH AMONG OLDER ADULTS: A PROPENSITY SCORE MATCHING APPROACH**[[paper](https://academic.oup.com/innovateage/article/8/Supplement_1/1010/7939280?login=false)]
+- (*Others & custom*) **DO MINDFULNESS ACTIVITIES IMPROVE HANDGRIP STRENGTH AMONG OLDER ADULTS: A PROPENSITY SCORE MATCHING APPROACH** [[paper](https://academic.oup.com/innovateage/article/8/Supplement_1/1010/7939280?login=false)]
 
+### 📂 Morality
 
-### 📂 Morality  
+- (*MFT*) **Moral Foundations of Large Language Models** [[paper](https://arxiv.org/abs/2310.15337)]
+
+- (*MFT*) **Whose Morality Do They Speak? Unraveling Cultural Bias in Multilingual Language Models** [[paper](https://arxiv.org/abs/2412.18863)]
+
+- (*MFT*) **Does Moral Code Have a Moral Code? Probing Delphi's Moral Philosophy** [[paper](https://arxiv.org/abs/2205.12771)]
+
+- (*MFT*) **MoralBench: Moral Evaluation of LLMs** [[paper](https://arxiv.org/abs/2406.04428)][[code](https://github.com/agiresearch/MoralBench)]
+
+- (*MFT*) **Towards "Differential AI Psychology" and in-context Value-driven Statement Alignment with Moral Foundations Theory** [[paper](https://arxiv.org/abs/2408.11415)]
+
+- (*MFT*) **Analyzing the Ethical Logic of Six Large Language Models** [[paper](https://arxiv.org/abs/2501.08951)]
+
+- (*MFT*) **Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations** [[paper](https://ojs.aaai.org/index.php/AIES/article/view/31704)]
+
+- (*MFT*) **AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories** [[paper](https://journals.sagepub.com/doi/full/10.1177/17456916231214460)][[code](https://github.com/feradauto/MoralCoT)]
+
+- (*MFT*) **Moral Mimicry: Large Language Models Produce Moral Rationalizations Tailored to Political Identity** [[paper](https://arxiv.org/abs/2209.12106)]
+
+- (*MFT*) **Exploring and steering the moral compass of Large Language Models** [[paper](https://arxiv.org/abs/2405.17345)]
+
+- (*MFT*) **M3oralBench: A MultiModal Moral Benchmark for LVLMs** [[paper](https://arxiv.org/abs/2412.20718)]
+
+- (*MFT*) **CLAVE: An Adaptive Framework for Evaluating Values of LLM Generated Responses** [[paper](https://arxiv.org/abs/2407.10725)]
+
+- (*MFT*) **Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?** [[paper](https://arxiv.org/abs/2308.15399)]
+
+- (*ETHICS*) **Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety** [[paper](https://arxiv.org/abs/2212.06295)]
+
+- (*ETHICS*) **Inducing Human-like Biases in Moral Reasoning Language Models** [[paper](https://arxiv.org/abs/2411.15386)]
+
+- (*ETHICS*) **An Evaluation of GPT-4 on the ETHICS Dataset** [[paper](https://arxiv.org/abs/2309.10492)]
+
+- (*ETHICS*) **EALM: Introducing Multidimensional Ethical Alignment in Conversational Information Retrieval** [[paper](https://dl.acm.org/doi/abs/10.1145/3624918.3625327)][[code](https://github.com/wanng-ide/ealm)]
+
+- (*DIT*) **Do Moral Judgment and Reasoning Capability of LLMs Change with Language? A Study using the Multilingual Defining Issues Test** [[paper](https://arxiv.org/abs/2402.02135)]
+
+- (*DIT*) **Probing the Moral Development of Large Language Models through Defining Issues Test** [[paper](https://arxiv.org/abs/2309.13356)]
+
+- (*Others & Custom*) **Large-scale moral machine experiment on large language models** [[paper](https://arxiv.org/abs/2411.06790)]
+
+- (*Others & Custom*) **SaGE: Evaluating Moral Consistency in Large Language Models** [[paper](https://arxiv.org/abs/2402.13709)]
+
+- (*Others & Custom*) **DailyDilemmas: Revealing Value Preferences of LLMs with Quandaries of Daily Life** [[paper](https://arxiv.org/abs/2410.02683)]
+
+- (*Others & Custom*) **The Moral Turing Test: Evaluating Human-LLM Alignment in Moral Decision-Making** [[paper](https://arxiv.org/abs/2410.07304)]
+
+- (*Others & Custom*) **Potential benefits of employing large language models in research in moral education and development** [[paper](https://www.tandfonline.com/doi/abs/10.1080/03057240.2023.2250570)]
+
+- (*Others & Custom*) **Moral Persuasion in Large Language Models: Evaluating Susceptibility and Ethical Alignment** [[paper](https://arxiv.org/abs/2411.11731)]
+
+- (*Others & Custom*) **Raising the Bar: Investigating the Values of Large Language Models via Generative Evolving Testing** [[paper](https://arxiv.org/abs/2406.14230)]
+
+- (*Others & Custom*) **When to Make Exceptions: Exploring Language Models as Accounts of Human Moral Judgment** [[paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b654d6150630a5ba5df7a55621390daf-Abstract-Conference.html)][[code](https://github.com/feradauto/MoralCoT)]
+
+- (*Others & Custom*) **Does Cross-Cultural Alignment Change the Commonsense Morality of Language Models?** [[paper](https://arxiv.org/abs/2406.16316)]
+
+- (*Others & Custom*) **Western, Religious or Spiritual: An Evaluation of Moral Justification in Large Language Models** [[paper](https://arxiv.org/abs/2311.07792)]
+
+- (*Others & Custom*) **Evaluating Moral Beliefs across LLMs through a Pluralistic Framework** [[paper](https://arxiv.org/abs/2411.03665)]
+
+- (*Others & Custom*) **LLMs as mirrors of societal moral standards: reflection of cultural divergence and agreement across ethical topics** [[paper](https://arxiv.org/abs/2412.00962)]
+
+- (*Others & Custom*) **Analyzing the Ethical Logic of Six Large Language Model** [[paper](https://arxiv.org/abs/2501.08951)]
+
+- (*Others & Custom*) **Extended Japanese Commonsense Morality Dataset with Masked Token and Label Enhancement** [[paper](https://dl.acm.org/doi/abs/10.1145/3627673.3679924)]
+
+- (*Others & Custom*) **What does AI consider praiseworthy?** [[paper](https://link.springer.com/article/10.1007/s43681-025-00682-z)]
+
+- (*Others & Custom*) **Knowledge of cultural moral norms in large language models** [[paper](https://arxiv.org/abs/2306.01857)]
+
+- (*Others & Custom*) **Normative Evaluation of Large Language Models with Everyday Moral Dilemmas** [[paper](https://arxiv.org/abs/2501.18081)]
+
+- (*Others & Custom*) **Evaluating the Moral Beliefs Encoded in LLMs** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a2cf225ba392627529efef14dc857e22-Abstract-Conference.html)]
+
+- (*Others & Custom*) **The Moral Mind(s) of Large Language Models** [[paper](https://arxiv.org/abs/2412.04476)]
+
+- (*Others & Custom*) **The moral machine experiment on large language models** [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.231393)]
+
+- (*Others & Custom*) **Probing the Moral Development of Large Language Models through Defining Issues Test** [[paper](https://arxiv.org/abs/2309.13356)]
+
+- (*Others & Custom*) **Decoding Multilingual Moral Preferences: Unveiling LLM's Biases through the Moral Machine Experiment** [[paper](https://ojs.aaai.org/index.php/AIES/article/view/31741)]
+
+- (*Others & Custom*) **Right vs. Right: Can LLMs Make Tough Choices?** [[paper](https://arxiv.org/abs/2412.19926)]
+
+### 📂 Attitudes&opinions
+
+- (*ANES*) **Out of One, Many: Using Language Models to Simulate Human Samples** [[paper](https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)]
+
+- (*ANES*) **Synthetic Replacements for Human Survey Data? The Perils of Large Language Models** [[paper](https://www.cambridge.org/core/journals/political-analysis/article/synthetic-replacements-for-human-survey-data-the-perils-of-large-language-models/B92267DC26195C7F36E63EA04A47D2FE)]
+
+- (*ANES*) **CommunityLM: Probing Partisan Worldviews from Language Models** [[paper](https://arxiv.org/abs/2209.07065)]
+
+- (*ANES*) **Representation Bias in Political Sample Simulations with Large Language Models** [[paper](https://arxiv.org/abs/2407.11409)]
+
+- (*ANES*) **Random Silicon Sampling: Simulating Human Sub-Population Opinion Using a Large Language Model Based on Group-Level Demographic Information** [[paper](https://arxiv.org/abs/2402.18144)]
+
+- (*ANES*) **Unpacking Political Bias in Large Language Models: A Cross-Model Comparison on U.S. Politics** [[paper](https://arxiv.org/abs/2412.16746)]
+
+- (*ATP*) **Out of One, Many: Using Language Models to Simulate Human Samples** [[paper](https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)]
+
+- (*ATP*) **Whose Opinions Do Language Models Reflect?** [[paper](https://proceedings.mlr.press/v202/santurkar23a.html)]
+
+- (*ATP*) **Do LLMs Exhibit Human-like Response Biases? A Case Study in Survey Design** [[paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00685/124261)]
+
+- (*GLES*) **Human Preferences in Large Language Model Latent Space: A Technical Analysis on the Reliability of Synthetic Data in Voting Outcome Prediction** [[paper](https://arxiv.org/abs/2502.16280)]
+
+- (*GLES*) **Algorithmic Fidelity of Large Language Models in Generating Synthetic German Public Opinions: A Case Study** [[paper](https://arxiv.org/abs/2412.13169)]
+
+- (*GLES*) **Representation Bias in Political Sample Simulations with Large Language Models** [[paper](https://arxiv.org/abs/2407.11409)]
+
+- (*GLES*) **Vox Populi, Vox AI? Using Language Models to Estimate German Public Opinion** [[paper](https://arxiv.org/abs/2407.08563)]
+
+- (*PCT*) **PRISM: A Methodology for Auditing Biases in Large Language Models** [[paper](https://arxiv.org/abs/2410.18906)]
+
+- (*PCT*) **Mapping and Influencing the Political Ideology of Large Language Models using Synthetic Personas** [[paper](https://arxiv.org/abs/2412.14843)]
+
+- (*PCT*) **The political ideology of conversational AI: Converging evidence on ChatGPT's pro-environmental, left-libertarian orientation** [[paper](https://arxiv.org/abs/2301.01768)]
+
+- (*PCT*) **Political Compass or Spinning Arrow? Towards More Meaningful Evaluations for Values and Opinions in Large Language Models** [[paper](https://arxiv.org/abs/2402.16786)]
+
+- (*PCT*) **The Political Biases of ChatGPT** [[paper](https://www.mdpi.com/2076-0760/12/3/148)]
+
+- (*PCT*) **The Self-Perception and Political Biases of ChatGPT** [[paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2024/7115633)]
+
+- (*PCT*) **Revealing Fine-Grained Values and Opinions in Large Language Models** [[paper](https://arxiv.org/abs/2406.19238)]
+
+- (*Others & custom*) **The Potential and Challenges of Evaluating Attitudes, Opinions, and Values in Large Language Models** [[paper](https://arxiv.org/abs/2406.11096)]
+
+- (*Others & custom*) **Beyond Prompt Brittleness: Evaluating the Reliability and Consistency of Political Worldviews in LLMs** [[paper](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00710/125176)]
+
+- (*Others & custom*) **Llama meets EU: Investigating the European Political Spectrum through the Lens of LLMs** [[paper](https://arxiv.org/abs/2403.13592)]
+
+- (*Others & custom*) **Questioning the Survey Responses of Large Language Models** [[paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/515c62809e0a29729d7eec26e2916fc0-Abstract-Conference.html)]
+
+- (*Others & custom*) **Towards Measuring the Representation of Subjective Global Opinions in Language Models** [[paper](https://arxiv.org/abs/2306.16388)][[code](https://huggingface.co/datasets/Anthropic/llm_global_opinions)]
+
+- (*Others & custom*) **Only a Little to the Left: A Theory-grounded Measure of Political Bias in Large Language Models** [[paper](https://arxiv.org/abs/2503.16148)]
+
+- (*Others & custom*) **From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models** [[paper](https://arxiv.org/abs/2305.08283)]
+
+- (*Others & custom*) **Are Large Language Models Chameleons? An Attempt to Simulate Social Surveys** [[paper](https://arxiv.org/abs/2405.19323)]
+
+- (*Others & custom*) **Improving GPT Generated Synthetic Samples with Sampling-Permutation Algorithm** [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4548937)]
+
+- (*Others & custom*) **AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction** [[paper](https://arxiv.org/abs/2305.09620)]
+
+- (*Others & custom*) **Linear Representations of Political Perspective Emerge in Large Language Models** [[paper](https://arxiv.org/abs/2503.02080)]
+
+- (*Others & custom*) **Can large language models estimate public opinion about global warming? An empirical assessment of algorithmic fidelity and bias** [[paper](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000429&utm)]
+
+- (*Others & custom*) **How Accurate are GPT-3’s Hypotheses About Social Science Phenomena?** [[paper](https://link.springer.com/article/10.1007/s44206-023-00054-2)]
+
+- (*Others & custom*) **IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance** [[paper](https://arxiv.org/abs/2502.08395)]
+
+- (*Others & custom*) **The Political Biases of ChatGPT** [[paper](https://www.mdpi.com/2076-0760/12/3/148)]
+
+- (*Others & custom*) **Demonstrations of the Potential of AI-based Political Issue Polling** [[paper](https://arxiv.org/abs/2307.04781)]
+
+- (*Others & custom*) **Large Language Models Can Be Used to Estimate the Latent Positions of Politicians** [[paper](https://arxiv.org/abs/2303.12057)]
+
+- (*Others & custom*) **Better Aligned with Survey Respondents or Training Data? Unveiling Political Leanings of LLMs on U.S. Supreme Court Cases** [[paper](https://arxiv.org/abs/2502.18282)]
+
