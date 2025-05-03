@@ -7,9 +7,18 @@ A curated list of psychometric evaluations of Large Language Models (LLMs)  Brid
 ## 📚 Table of Contents  
 
 - 🧠 [Constructs & Categories](#-constructs--categories)  
-- 📬 [Methodology and Validation Tags](#-methodology-and-validation-tags)  
+- 📬 [Methodology and Validation Tags](#-methodology-and-validation-tags)  
+  - 🔬 [Psychometric Evaluation Methodology](#-psychometric-evaluation-methodology)  
+  - ✅ [Psychometric Validation](#-psychometric-validation)  
 - 📝 [Category Entries](#-category-entries)  
-
+  - 📂 [Personality](#-personality)  
+  - 📂 [Values](#-values)  
+  - 📂 [Morality](#-morality)  
+  - 📂 [Attitudes & Opinions](#-attitudes--opinions)  
+  - 📂 [Heuristics & Biases](#-heuristics--biases)  
+  - 📂 [Social Intelligence & Theory of Mind](#-social-intelligence--theory-of-mind)  
+  - 📂 [Psychology of Language](#-psychology-of-language)  
+  - 📂 [Learning and Cognitive Capabilities](#-learning-and-cognitive-capabilities)  
 ---
 
 ## 🧠 Constructs & Categories  
@@ -446,59 +455,59 @@ A curated list of psychometric evaluations of Large Language Models (LLMs)  Brid
 
 ### 📂 Heuristics & biases
 
-- (*-*) **Cognitive Network Science Reveals Bias in GPT-3, GPT-3.5 Turbo, and GPT-4 Mirroring Math Anxiety in High-School Students** [[paper](https://www.mdpi.com/2504-2289/7/3/124)]
+- **Cognitive Network Science Reveals Bias in GPT-3, GPT-3.5 Turbo, and GPT-4 Mirroring Math Anxiety in High-School Students** [[paper](https://www.mdpi.com/2504-2289/7/3/124)]
 
-- (*-*) **Evaluating Large Language Models with NeuBAROCO: Syllogistic Reasoning Ability and Human-like Biases** [[paper](https://arxiv.org/abs/2306.12567)]
+- **Evaluating Large Language Models with NeuBAROCO: Syllogistic Reasoning Ability and Human-like Biases** [[paper](https://arxiv.org/abs/2306.12567)]
 
-- (*-*) **FairMonitor: A Dual-framework for Detecting Stereotypes and Biases in Large Language Models** [[paper](https://arxiv.org/abs/2405.03098)]
+- **FairMonitor: A Dual-framework for Detecting Stereotypes and Biases in Large Language Models** [[paper](https://arxiv.org/abs/2405.03098)]
 
-- (*-*) **Using cognitive psychology to understand GPT-3** [[paper](https://www.pnas.org/doi/abs/10.1073/pnas.2218523120)][[code](https://github.com/marcelbinz/GPT3goesPsychology)]
+- **Using cognitive psychology to understand GPT-3** [[paper](https://www.pnas.org/doi/abs/10.1073/pnas.2218523120)][[code](https://github.com/marcelbinz/GPT3goesPsychology)]
 
-- (*-*) **Examining Cognitive Biases in ChatGPT 3.5 and 4 through Human Evaluation and Linguistic Comparison** [[paper](https://aclanthology.org/2024.amta-research.21/)]
+- **Examining Cognitive Biases in ChatGPT 3.5 and 4 through Human Evaluation and Linguistic Comparison** [[paper](https://aclanthology.org/2024.amta-research.21/)]
 
-- (*-*) **Do Emotions Really Affect Argument Convincingness? A Dynamic Approach with LLM-based Manipulation Checks** [[paper](https://arxiv.org/abs/2503.00024)]
+- **Do Emotions Really Affect Argument Convincingness? A Dynamic Approach with LLM-based Manipulation Checks** [[paper](https://arxiv.org/abs/2503.00024)]
 
-- (*-*) **CogBench: a large language model walks into a psychology lab** [[paper](https://arxiv.org/abs/2402.18225)]
+- **CogBench: a large language model walks into a psychology lab** [[paper](https://arxiv.org/abs/2402.18225)]
 
-- (*-*) **Cognitive Bias in Decision-Making with LLMs** [[paper](https://arxiv.org/abs/2403.00811)]
+- **Cognitive Bias in Decision-Making with LLMs** [[paper](https://arxiv.org/abs/2403.00811)]
 
-- (*-*) **Human-like intuitive behavior and reasoning biases emerged in large language models but disappeared in ChatGPT** [[paper](https://www.nature.com/articles/s43588-023-00527-x)]
+- **Human-like intuitive behavior and reasoning biases emerged in large language models but disappeared in ChatGPT** [[paper](https://www.nature.com/articles/s43588-023-00527-x)]
 
-- (*-*) **Relative Value Biases in Large Language Models** [[paper](https://arxiv.org/abs/2401.14530)]
+- **Relative Value Biases in Large Language Models** [[paper](https://arxiv.org/abs/2401.14530)]
 
-- (*-*) **Evaluating Nuanced Bias in Large Language Model Free Response Answers** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-70242-6_36)]
+- **Evaluating Nuanced Bias in Large Language Model Free Response Answers** [[paper](https://link.springer.com/chapter/10.1007/978-3-031-70242-6_36)]
 
-- (*-*) **Investigating Implicit Bias in Large Language Models: A Large-Scale Study of Over 50 LLMs** [[paper](https://arxiv.org/abs/2410.12864)]
+- **Investigating Implicit Bias in Large Language Models: A Large-Scale Study of Over 50 LLMs** [[paper](https://arxiv.org/abs/2410.12864)]
 
-- (*-*) **(Ir)rationality and cognitive biases in large language models** [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240255)]
+- **(Ir)rationality and cognitive biases in large language models** [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240255)]
 
-- (*-*) **A Comprehensive Evaluation of Cognitive Biases in LLMs** [[paper](https://arxiv.org/abs/2410.15413)][[code](https://github.com/simonmalberg/cognitive-biases-in-llms)]
+- **A Comprehensive Evaluation of Cognitive Biases in LLMs** [[paper](https://arxiv.org/abs/2410.15413)][[code](https://github.com/simonmalberg/cognitive-biases-in-llms)]
 
-- (*-*) **Evaluating Cognitive Maps and Planning in Large Language Models with CogEval** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dc9d5dcf3e86b83e137bad367227c8ca-Abstract-Conference.html)]
+- **Evaluating Cognitive Maps and Planning in Large Language Models with CogEval** [[paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/dc9d5dcf3e86b83e137bad367227c8ca-Abstract-Conference.html)]
 
-- (*-*) **HANS, are you clever? Clever Hans Effect Analysis of Neural Systems** [[paper](https://aclanthology.org/2024.starsem-1.25.pdf)]
+- **HANS, are you clever? Clever Hans Effect Analysis of Neural Systems** [[paper](https://aclanthology.org/2024.starsem-1.25.pdf)]
 
-- (*-*) **Findings of the Association for Computational Linguistics:ACL2023** [[paper](https://aclanthology.org/2023.findings-acl.0.pdf)]
+- **Findings of the Association for Computational Linguistics:ACL2023** [[paper](https://aclanthology.org/2023.findings-acl.0.pdf)]
 
-- (*-*) **Metacognitive Myopia in Large Language Models** [[paper](https://arxiv.org/abs/2408.05568)]
+- **Metacognitive Myopia in Large Language Models** [[paper](https://arxiv.org/abs/2408.05568)]
 
-- (*-*) **Visual cognition in multimodal large language models** [[paper](https://www.nature.com/articles/s42256-024-00963-y)]
+- **Visual cognition in multimodal large language models** [[paper](https://www.nature.com/articles/s42256-024-00963-y)]
 
-- (*-*) **Development of Cognitive Intelligence in Pre-trained Language Models** [[paper](https://arxiv.org/abs/2407.01047)]
+- **Development of Cognitive Intelligence in Pre-trained Language Models** [[paper](https://arxiv.org/abs/2407.01047)]
 
-- (*-*) **CBEval: A framework for evaluating and interpreting cognitive biases in LLMs** [[paper](https://arxiv.org/abs/2412.03605)]
+- **CBEval: A framework for evaluating and interpreting cognitive biases in LLMs** [[paper](https://arxiv.org/abs/2412.03605)]
 
-- (*-*) **Can a Hallucinating Model help in Reducing Human "Hallucination"?** [[paper](https://arxiv.org/abs/2405.00843)]
+- **Can a Hallucinating Model help in Reducing Human "Hallucination"?** [[paper](https://arxiv.org/abs/2405.00843)]
 
-- (*-*) **Challenging the appearance of machine intelligence: Cognitive bias in LLMs and Best Practices for Adoption** [[paper](https://arxiv.org/abs/2304.01358)]
+- **Challenging the appearance of machine intelligence: Cognitive bias in LLMs and Best Practices for Adoption** [[paper](https://arxiv.org/abs/2304.01358)]
 
-- (*-*) **Humanlike Cognitive Patterns as Emergent Phenomena in Large Language Models** [[paper](https://arxiv.org/abs/2412.15501)]
+- **Humanlike Cognitive Patterns as Emergent Phenomena in Large Language Models** [[paper](https://arxiv.org/abs/2412.15501)]
 
-- (*-*) **Cognitive bias in large language models: Cautious optimism meets anti-Panglossian meliorism** [[paper](https://arxiv.org/abs/2311.10932)]
+- **Cognitive bias in large language models: Cautious optimism meets anti-Panglossian meliorism** [[paper](https://arxiv.org/abs/2311.10932)]
 
-- (*-*) **Do Large Language Models Truly Grasp Mathematics? An Empirical Exploration** [[paper](https://www.researchsquare.com/article/rs-5273334/v1)]
+- **Do Large Language Models Truly Grasp Mathematics? An Empirical Exploration** [[paper](https://www.researchsquare.com/article/rs-5273334/v1)]
 
-- (*-*) **Studying and improving reasoning in humans and machines** [[paper](https://www.nature.com/articles/s44271-024-00091-8)]
+- **Studying and improving reasoning in humans and machines** [[paper](https://www.nature.com/articles/s44271-024-00091-8)]
 
 ### 📂  Social interactions
 
@@ -722,26 +731,26 @@ A curated list of psychometric evaluations of Large Language Models (LLMs)  Brid
 
 ### 📂  Learning and cognitive capabilities
 
-- (*-*) **Large Language Models and Cognitive Science: A Comprehensive Review of Similarities, Differences, and Challenges** [[paper](https://arxiv.org/abs/2409.02387)]
+- **Large Language Models and Cognitive Science: A Comprehensive Review of Similarities, Differences, and Challenges** [[paper](https://arxiv.org/abs/2409.02387)]
 
-- (*-*) **CogBench: a large language model walks into a psychology lab** [[paper](https://arxiv.org/abs/2402.18225)]
+- **CogBench: a large language model walks into a psychology lab** [[paper](https://arxiv.org/abs/2402.18225)]
 
-- (*-*) **Age against the machine—susceptibility of large language models to cognitive impairment: cross sectional analysis** [[paper](https://www.bmj.com/content/387/bmj-2024-081948.abstract)]
+- **Age against the machine—susceptibility of large language models to cognitive impairment: cross sectional analysis** [[paper](https://www.bmj.com/content/387/bmj-2024-081948.abstract)]
 
-- (*-*) **The Cognitive Capabilities of Generative AI: A Comparative Analysis with Human Benchmarks** [[paper](https://arxiv.org/abs/2410.07391)]
+- **The Cognitive Capabilities of Generative AI: A Comparative Analysis with Human Benchmarks** [[paper](https://arxiv.org/abs/2410.07391)]
 
-- (*-*) **CogGPT: Unleashing the Power of Cognitive Dynamics on Large Language Models** [[paper](https://arxiv.org/abs/2401.08438)]
+- **CogGPT: Unleashing the Power of Cognitive Dynamics on Large Language Models** [[paper](https://arxiv.org/abs/2401.08438)]
 
-- (*-*) **Language models and psychological sciences** [[paper](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1279317/full)]
+- **Language models and psychological sciences** [[paper](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1279317/full)]
 
-- (*-*) **M3GIA: A Cognition Inspired Multilingual and Multimodal General Intelligence Ability Benchmark** [[paper](https://arxiv.org/abs/2406.05343)]
+- **M3GIA: A Cognition Inspired Multilingual and Multimodal General Intelligence Ability Benchmark** [[paper](https://arxiv.org/abs/2406.05343)]
 
-- (*-*) **CogLM: Tracking Cognitive Development of Large Language Models** [[paper](https://arxiv.org/abs/2408.09150)]
+- **CogLM: Tracking Cognitive Development of Large Language Models** [[paper](https://arxiv.org/abs/2408.09150)]
 
-- (*-*) **Emergent analogical reasoning in large language models** [[paper](https://www.nature.com/articles/s41562-023-01659-w)]
+- **Emergent analogical reasoning in large language models** [[paper](https://www.nature.com/articles/s41562-023-01659-w)]
 
-- (*-*) **Understanding LLMs' Fluid Intelligence Deficiency: An Analysis of the ARC Task** [[paper](https://arxiv.org/abs/2502.07190)][[code](https://wujunjie1998.github.io/araoc-benchmark.github.io/)]
+- **Understanding LLMs' Fluid Intelligence Deficiency: An Analysis of the ARC Task** [[paper](https://arxiv.org/abs/2502.07190)][[code](https://wujunjie1998.github.io/araoc-benchmark.github.io/)]
 
-- (*-*) **MR-Ben: A Meta-Reasoning Benchmark for Evaluating System-2 Thinking in LLMs** [[paper](https://arxiv.org/abs/2406.13975)]
+- **MR-Ben: A Meta-Reasoning Benchmark for Evaluating System-2 Thinking in LLMs** [[paper](https://arxiv.org/abs/2406.13975)]
 
-- (*-*) **Exploring the Cognitive Knowledge Structure of Large Language Models: An Educational Diagnostic Assessment Approach** [[paper](https://arxiv.org/abs/2310.08172)]
+- **Exploring the Cognitive Knowledge Structure of Large Language Models: An Educational Diagnostic Assessment Approach** [[paper](https://arxiv.org/abs/2310.08172)]
