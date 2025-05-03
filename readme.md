@@ -7,9 +7,11 @@ A curated list of psychometric evaluations of Large Language Models (LLMs)  Brid
 ## 📚 Table of Contents  
 
 - 🧠 [Constructs & Categories](#-constructs--categories)  
+
 - 📬 [Methodology and Validation Tags](#-methodology-and-validation-tags)  
   - 🔬 [Psychometric Evaluation Methodology](#-psychometric-evaluation-methodology)  
   - ✅ [Psychometric Validation](#-psychometric-validation)  
+
 - 📝 [Category Entries](#-category-entries)  
   - 📂 [Personality](#-personality)  
   - 📂 [Values](#-values)  
