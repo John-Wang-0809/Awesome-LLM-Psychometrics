@@ -27,22 +27,22 @@ A curated list of psychometric evaluations of Large Language Models (LLMs)  Brid
 
 ![](./test.png)
 
-### 📂 Personality 
+### 📂 Personality - overview
 
 - 🗯️ **Big Five	/	HEXACO	/	Myers-Briggs Type Indicator (MBTI)	/	Dark Triad	/	Others & custom**
 - 🧪 **Personality** is the enduring configuration of characteristics and behavior that comprises an individual’s unique adjustment to life.
 
-### 📂 Values  
+### 📂 Values - overview  
 
 - ⚖️ **Schwartz’s Theory	/	World Values Survey (WVS)	/	Global Leadership and Organizational Behavior Effectiveness (GLOBE)	/	Social Value Orientation (SVO)	/	Others & custom**
 - 🧪 **Values** are enduring beliefs that guide behavior and decision-making, reflecting what is important and desirable to an individual or group.
 
-### 📂 Morality  
+### 📂 Morality - overview  
 
 - 🧬 **Moral Foundations (MFT) 	/	 Defining Issues Test (DIT)	/	ETHICS	/	Others & custom**
 - 🧪 **Morality** is the categorization of intentions, decisions and actions into those that are proper, or right, and those that are improper, or wrong.
 
-### 📂 Attitudes & Opinions  
+### 📂 Attitudes & Opinions - overview  
 
 - 🗣️ **American National Election Studies (ANES)	/	 American Trends Panel(ATP)	/	German Longitudinal Election Study (GLES)	/	 Political Compass Test (PCT)**
 
@@ -50,11 +50,11 @@ A curated list of psychometric evaluations of Large Language Models (LLMs)  Brid
 
   
 
-### 📂 Heuristics & Biases
+### 📂 Heuristics & Biases - overview
 
 - 🧪  **Heuristics and biases** are mental shortcuts or rules of thumb that simplify decision-making and problem-solving.
 
-### 📂 Social Intelligence & Theory of Mind  
+### 📂 Social Intelligence & Theory of Mind - overview  
 
 - 🌀 **Theory of Mind (ToM)	/	Emotional Intelligence	/	Social Intelligence**
 
@@ -64,11 +64,11 @@ A curated list of psychometric evaluations of Large Language Models (LLMs)  Brid
 
   🧪 **Social Intelligence** is the ability to understand and manage people.
 
-### 📂 Psychology of language
+### 📂 Psychology of language - overview
 
 - **🧑‍🤝‍🧑 Language  comprehension	/	Language generation	/	Language acquisition**
 
-### 📂 Learning and cognitive capabilities
+### 📂 Learning and cognitive capabilities - overview
 
 
 
