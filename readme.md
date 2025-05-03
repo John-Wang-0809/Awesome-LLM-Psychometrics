@@ -67,12 +67,16 @@ A curated list of psychometric evaluations of Large Language Models (LLMs)  Brid
 
 ### 🔬 Psychometric Evaluation Methodology
 
+![](./method.png)
+
 - **Test Format**: Structured test · Open-ended conversation · Agentic simulation 
 - **Data and Task Sources**: Established inventories (e.g., MFT, SVS, MBTI) · Custom-curated items · Synthetic items 
 - **Prompting Strategies**: Prompt perturbation · Performance-enhancing prompts (e.g., CoT) · Role-playing prompts 
 - **Model Output & Scoring**: Logit-based analysis · Direct scoring · Rule-based scoring · Human scoring  · Model-based scoring
 
 ### ✅ Psychometric Validation
+
+![](./validation.png)
 
 - **Reliability**: Test-retest · Parallel forms · Inter-rater agreement 
 
