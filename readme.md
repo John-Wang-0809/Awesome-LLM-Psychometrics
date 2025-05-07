@@ -1,6 +1,7 @@
 # 🎭 Awesome-LLM-Psychometrics  
 
-A curated list of psychometric evaluations of Large Language Models (LLMs)  Bridging Psychology 💬 and AI 🤖 with science, sass, and scale.
+
+This repository accompanies the paper [xxx](). It contains a curated list of Large Language Models (LLMs) psychometrics resources. 
 
 ---
 
@@ -25,7 +26,7 @@ A curated list of psychometric evaluations of Large Language Models (LLMs)  Brid
 
 ## 🧠 Constructs & Categories  
 
-![](./test.png)
+![](./assets/test.png)
 
 ### 📂 Personality - overview
 
@@ -78,7 +79,7 @@ A curated list of psychometric evaluations of Large Language Models (LLMs)  Brid
 
 ### 🔬 Psychometric Evaluation Methodology
 
-![](./method.png)
+![](./assets/method.png)
 
 - **Test Format**: Structured test · Open-ended conversation · Agentic simulation 
 - **Data and Task Sources**: Established inventories (e.g., MFT, SVS, MBTI) · Custom-curated items · Synthetic items 
@@ -87,7 +88,7 @@ A curated list of psychometric evaluations of Large Language Models (LLMs)  Brid
 
 ### ✅ Psychometric Validation
 
-![](./validation.png)
+![](./assets/validation.png)
 
 - **Reliability**: Test-retest · Parallel forms · Inter-rater agreement 
 
@@ -657,7 +658,7 @@ A curated list of psychometric evaluations of Large Language Models (LLMs)  Brid
 
 ### 📂  Psychology of language
 
-- (*Language comprehension*) **Language Model Behavior:AComprehensive Survey** [[paper](https://watermark.silverchair.com/coli_a_00492.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAzYwggMyBgkqhkiG9w0BBwagggMjMIIDHwIBADCCAxgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmv-1DQ3bEQ9vR9a3AgEQgIIC6TdmStTVzTPvTY6q2hPoYEd1osLnCgLRZzTrTmR0Ep6fLD9DMmYn-JFAAp0_nsk_sMLik_2nv-gE3EIgd7U0NIgsWY1ZTyyP49u2WWVGtXGcgjG73C_26pf5WPTphyU2_qn3Bz0IJ6HLQiWH755R24i2pjYtRu07zE78frdvs2rxTg9S09f9bzZ0rONfFoLquBcIb4wWGUX28ToipnVRS7H_q3bXAIoJN9aP-EA2mQsWXdCYJnNXtsOxp3-h9PUIojVIOFxIKtmzkxS_2Nsigndn98-I4Oj_cuKIqdGWePdgWgg9RmgoVAmwrhslpMaIHLXHTalHUeB5JICsuDfqW90oPwz0LfHTVbFF9zohWedOVy_2GeA18ddsRXTvGjm6dVy5rUSgCNVVoFYVzLCRFCPW0t3URc9IJ6Fs9h5jc8GkQG1i58oGnqAwH8fOv_-y5DHKTDz6k5oXg73eLEvcgakCmAkW-Xvk5KTWFleX5y8-kYkAXTmH-CLLP99KmkhjJ_d2TQusTtTMTrry-31xpvhyT3caV1U4LimjxE-JdUXUjAoYOBmNCHeRE4aJk9LhypZ7t0iQfnhLve_kTKGu7m59rITnzZbcNbmfHviRbAMCzeeT1hz5_FSCjhPbP0teXPmwPPgcmtpus9mktd9QptdT8oFVGgPsJcYihe66SYHGoB3vwOXzTt4GTcDc1c5SFL3q8tbRhsDGLSvT9nptfGppRIAYn8wDwE8l8s4jCy27Ai_Hlhft_xq2iJ8ZY1HOnE9icsqGAi0rCqNTKfkPSMd7d6-cz3cRsWD1n3z47-64nCMKgkoDtFFvs_Z9CTPWxLtClPnF99gLDtCBKDBYzTpMSshwC-sb-jBQPHjeTsQ5l54CxRdMApU2_VXz90LTbsUYlwJ3DB5Ga7kyu7dqaC2osf4VRLR85ooIqEV-VG8KsIPafpUmwVXLyfhtZNvpezQCVm4-KgcbjanurKOGET6NiVts4F3qRrE)]
+- (*Language comprehension*) **Language Model Behavior: A Comprehensive Survey** [[paper](https://watermark.silverchair.com/coli_a_00492.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAzYwggMyBgkqhkiG9w0BBwagggMjMIIDHwIBADCCAxgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMmv-1DQ3bEQ9vR9a3AgEQgIIC6TdmStTVzTPvTY6q2hPoYEd1osLnCgLRZzTrTmR0Ep6fLD9DMmYn-JFAAp0_nsk_sMLik_2nv-gE3EIgd7U0NIgsWY1ZTyyP49u2WWVGtXGcgjG73C_26pf5WPTphyU2_qn3Bz0IJ6HLQiWH755R24i2pjYtRu07zE78frdvs2rxTg9S09f9bzZ0rONfFoLquBcIb4wWGUX28ToipnVRS7H_q3bXAIoJN9aP-EA2mQsWXdCYJnNXtsOxp3-h9PUIojVIOFxIKtmzkxS_2Nsigndn98-I4Oj_cuKIqdGWePdgWgg9RmgoVAmwrhslpMaIHLXHTalHUeB5JICsuDfqW90oPwz0LfHTVbFF9zohWedOVy_2GeA18ddsRXTvGjm6dVy5rUSgCNVVoFYVzLCRFCPW0t3URc9IJ6Fs9h5jc8GkQG1i58oGnqAwH8fOv_-y5DHKTDz6k5oXg73eLEvcgakCmAkW-Xvk5KTWFleX5y8-kYkAXTmH-CLLP99KmkhjJ_d2TQusTtTMTrry-31xpvhyT3caV1U4LimjxE-JdUXUjAoYOBmNCHeRE4aJk9LhypZ7t0iQfnhLve_kTKGu7m59rITnzZbcNbmfHviRbAMCzeeT1hz5_FSCjhPbP0teXPmwPPgcmtpus9mktd9QptdT8oFVGgPsJcYihe66SYHGoB3vwOXzTt4GTcDc1c5SFL3q8tbRhsDGLSvT9nptfGppRIAYn8wDwE8l8s4jCy27Ai_Hlhft_xq2iJ8ZY1HOnE9icsqGAi0rCqNTKfkPSMd7d6-cz3cRsWD1n3z47-64nCMKgkoDtFFvs_Z9CTPWxLtClPnF99gLDtCBKDBYzTpMSshwC-sb-jBQPHjeTsQ5l54CxRdMApU2_VXz90LTbsUYlwJ3DB5Ga7kyu7dqaC2osf4VRLR85ooIqEV-VG8KsIPafpUmwVXLyfhtZNvpezQCVm4-KgcbjanurKOGET6NiVts4F3qRrE)]
 
 - (*Language comprehension*) **Large Language Models for Psycholinguistic Plausibility Pretesting** [[paper](https://arxiv.org/abs/2402.05455)]
 
