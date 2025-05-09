@@ -114,7 +114,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Big Five*) **Can LLM Agents Maintain a Persona in Discourse?** [[paper](https://arxiv.org/abs/2502.11843)]
 
-- (*Big Five*) **Personality testing of large language models: limited temporal stability, but highlighted prosociality** [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240180)]
+- (*Big Five*) **Personality testing of large language models: limited temporal stability, but highlighted prosociality** [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240180)] [Royal Society Open Science]
 
 - (*Big Five*) **Identifying and Manipulating the Personality Traits of Language Models** [[paper](https://arxiv.org/abs/2212.10276)] [EMNLP 2023]
 
@@ -183,7 +183,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*MBTI*) **Revisiting the Reliability of Psychological Scales on Large Language Models** [[paper](https://arxiv.org/abs/2305.19926)] [EMNLP 2024]
 
-- (*MBTI*) **Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Models** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32125)]  [AAAI 2025]
+- (*MBTI*) **Open Models, Closed Minds? On Agents Capabilities in Mimicking Human Personalities through Open Large Language Models** [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32125)] [AAAI 2025]
 
 - (*MBTI*) **Illuminating the Black Box: A Psychometric Investigation into the Multifaceted Nature of Large Language Models** [[paper](https://arxiv.org/abs/2312.14202)]
 
@@ -274,7 +274,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 - (*GLOBE*) **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**
   [[paper](https://arxiv.org/abs/2406.04214)][[code](https://github.com/Value4AI/ValueBench)] [ACL 2024]
 
-- (*SVO*) **Heterogeneous Value Alignment Evaluation for Large Language Models** [[paper](https://arxiv.org/abs/2305.17147)][[code](https://github.com/zowiezhang/HVAE)] 
+- (*SVO*) **Heterogeneous Value Alignment Evaluation for Large Language Models** [[paper](https://arxiv.org/abs/2305.17147)][[code](https://github.com/zowiezhang/HVAE)] [AAAI 2024 Workshop]
 
 - (*Others & custom*) **Beyond Human Norms: Unveiling Unique Values of Large Language Models through Interdisciplinary Approaches** [[paper](https://arxiv.org/abs/2404.12744)]
 
@@ -298,7 +298,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*MFT*) **Whose Morality Do They Speak? Unraveling Cultural Bias in Multilingual Language Models** [[paper](https://arxiv.org/abs/2412.18863)] 
 
-- (*MFT*) **Does Moral Code Have a Moral Code? Probing Delphi's Moral Philosophy** [[paper](https://arxiv.org/abs/2205.12771)] [Workshop @ NAACL 2022]
+- (*MFT*) **Does Moral Code Have a Moral Code? Probing Delphi's Moral Philosophy** [[paper](https://arxiv.org/abs/2205.12771)] [NAACL 2022 Workshop]
 
 - (*MFT*) **MoralBench: Moral Evaluation of LLMs** [[paper](https://arxiv.org/abs/2406.04428)][[code](https://github.com/agiresearch/MoralBench)]
 
@@ -306,11 +306,11 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*MFT*) **Analyzing the Ethical Logic of Six Large Language Models** [[paper](https://arxiv.org/abs/2501.08951)]
 
-- (*MFT*) **Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations** [[paper](https://ojs.aaai.org/index.php/AIES/article/view/31704)]
+- (*MFT*) **Are Large Language Models Moral Hypocrites? A Study Based on Moral Foundations** [[paper](https://ojs.aaai.org/index.php/AIES/article/view/31704)] [AIES 2024]
 
 - (*MFT*) **AI Psychometrics: Assessing the Psychological Profiles of Large Language Models Through Psychometric Inventories** [[paper](https://journals.sagepub.com/doi/full/10.1177/17456916231214460)][[code](https://github.com/feradauto/MoralCoT)] [Perspectives on Psychological Science]
 
-- (*MFT*) **Moral Mimicry: Large Language Models Produce Moral Rationalizations Tailored to Political Identity** [[paper](https://arxiv.org/abs/2209.12106)]
+- (*MFT*) **Moral Mimicry: Large Language Models Produce Moral Rationalizations Tailored to Political Identity** [[paper](https://arxiv.org/abs/2209.12106)] [ACL 2023 Workshop]
 
 - (*MFT*) **Exploring and steering the moral compass of Large Language Models** [[paper](https://arxiv.org/abs/2405.17345)] [ICPR 2024]
 
@@ -320,7 +320,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*MFT*) **Rethinking Machine Ethics -- Can LLMs Perform Moral Reasoning through the Lens of Moral Theories?** [[paper](https://arxiv.org/abs/2308.15399)] [NAACL 2024 Findings]
 
-- (*ETHICS*) **Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety** [[paper](https://arxiv.org/abs/2212.06295)] [Workshop NeurIPS 2022]
+- (*ETHICS*) **Despite "super-human" performance, current LLMs are unsuited for decisions about ethics and safety** [[paper](https://arxiv.org/abs/2212.06295)] [NeurIPS 2022 Workshop]
 
 - (*ETHICS*) **Inducing Human-like Biases in Moral Reasoning Language Models** [[paper](https://arxiv.org/abs/2411.15386)]
 
@@ -444,7 +444,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Others & custom*) **Can large language models estimate public opinion about global warming? An empirical assessment of algorithmic fidelity and bias** [[paper](https://journals.plos.org/climate/article?id=10.1371/journal.pclm.0000429&utm)] [PLOS Climate]
 
-- (*Others & custom*) **How Accurate are GPT-3’s Hypotheses About Social Science Phenomena?** [[paper](https://link.springer.com/article/10.1007/s44206-023-00054-2)]
+- (*Others & custom*) **How Accurate are GPT-3’s Hypotheses About Social Science Phenomena?** [[paper](https://link.springer.com/article/10.1007/s44206-023-00054-2)] [Digital Society]
 
 - (*Others & custom*) **IssueBench: Millions of Realistic Prompts for Measuring Issue Bias in LLM Writing Assistance** [[paper](https://arxiv.org/abs/2502.08395)]
 
