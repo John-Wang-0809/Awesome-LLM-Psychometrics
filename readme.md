@@ -114,17 +114,17 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Big Five*) **Can LLM Agents Maintain a Persona in Discourse?**, 2025.02, [[paper](https://arxiv.org/abs/2502.11843)]
 
-- (*Big Five*) **Personality testing of large language models: limited temporal stability, but highlighted prosociality**, Royal Society Open Science, [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240180)]
+- (*Big Five*) **Personality testing of large language models: limited temporal stability, but highlighted prosociality**, 2024.01, Royal Society Open Science, [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240180)]
 
-- (*Big Five*) **Identifying and Manipulating the Personality Traits of Language Models** [[paper](https://arxiv.org/abs/2212.10276)] [EMNLP 2023]
+- (*Big Five*) **Identifying and Manipulating the Personality Traits of Language Models**, EMNLP 2023, [[paper](https://arxiv.org/abs/2212.10276)]
 
-- (*Big Five*) **Do Personality Tests Generalize to Large Language Models?** [[paper](https://openreview.net/forum?id=zKDSfGhCoK)]
+- (*Big Five*) **Do Personality Tests Generalize to Large Language Models?**, 2023.11, [[paper](https://openreview.net/forum?id=zKDSfGhCoK)]
 
-- (*Big Five*) **LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models** [[paper](https://arxiv.org/abs/2402.02896)] [EACL 2024]
+- (*Big Five*) **LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models**, EACL 2024, [[paper](https://arxiv.org/abs/2402.02896)]
 
-- (*Big Five*) **PersonaLLM: Investigating the Ability of Large Language Models to Express Personality Traits** [[paper](https://arxiv.org/abs/2305.02547)] [NAACL 2024 Findings]
+- (*Big Five*) **PersonaLLM: Investigating the Ability of Large Language Models to Express Personality Traits**,NAACL 2024 Findings, [[paper](https://arxiv.org/abs/2305.02547)]
 
-- (*Big Five*) **Eliciting Personality Traits in Large Language Models** [[paper](https://arxiv.org/abs/2402.08341)]
+- (*Big Five*) **Eliciting Personality Traits in Large Language Models**, 2024.02, [[paper](https://arxiv.org/abs/2402.08341)]
 
 - (*Big Five*) **Revisiting the Reliability of Psychological Scales on Large Language Models** [[paper](https://arxiv.org/abs/2305.19926)] [[EMNLP 2024]]
 
