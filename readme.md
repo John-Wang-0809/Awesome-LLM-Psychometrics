@@ -110,9 +110,9 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 ### 📂 Personality  
 
-- (*Big Five*) **Is Self-knowledge and Action Consistent or Not: Investigating Large Language Model's Personality** [[paper](https://arxiv.org/abs/2402.14679)] [ICML 2024]
+- (*Big Five*) **Is Self-knowledge and Action Consistent or Not: Investigating Large Language Model's Personality**,ICML 2024 [[paper](https://arxiv.org/abs/2402.14679)]
 
-- (*Big Five*) **Can LLM Agents Maintain a Persona in Discourse?** [[paper](https://arxiv.org/abs/2502.11843)]
+- (*Big Five*) **Can LLM Agents Maintain a Persona in Discourse?**, 2025,02, [[paper](https://arxiv.org/abs/2502.11843)]
 
 - (*Big Five*) **Personality testing of large language models: limited temporal stability, but highlighted prosociality** [[paper](https://royalsocietypublishing.org/doi/full/10.1098/rsos.240180)] [Royal Society Open Science]
 
