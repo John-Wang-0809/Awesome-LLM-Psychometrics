@@ -629,7 +629,7 @@ This repository accompanies the paper [xxx](). It contains a curated list of Lar
 
 - (*Social Intelligence*) **DeSIQ: Towards an Unbiased, Challenging Benchmark for Social Intelligence Understanding**, EMNLP 2023, [[paper](https://arxiv.org/abs/2310.18359)] 
 
-- (*Social Intelligence*) **SocialAI 0.1: Towards a Benchmark to Stimulate Research on Socio-Cognitive Abilities in Deep Reinforcement Learning Agents**, NAACL ViGIL Workshop 2021, [[paper](https://arxiv.org/abs/2104.13207)][[code](https://sites.google.com/view/socialai01)]
+- (*Social Intelligence*) **SocialAI 0.1: Towards a Benchmark to Stimulate Research on Socio-Cognitive Abilities in Deep Reinforcement Learning Agents**, NAACL 2021 Workshop, [[paper](https://arxiv.org/abs/2104.13207)][[code](https://sites.google.com/view/socialai01)]
 
 - (*Social Intelligence*) **Do LLM Agents Exhibit Social Behavior?**, 2023.12, [[paper](https://arxiv.org/abs/2312.15198)]
 
