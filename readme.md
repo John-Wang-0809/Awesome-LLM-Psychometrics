@@ -1,7 +1,7 @@
 # 🎭 Awesome-LLM-Psychometrics  
 
 
-This repository accompanies the paper [xxx](). It contains a curated list of Large Language Models (LLMs) psychometrics resources. 
+This repository accompanies the paper [Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement](./assets/llm_psychometrics_review.pdf). It contains a curated list of Large Language Models (LLMs) psychometrics resources. 
 
 ---
 
