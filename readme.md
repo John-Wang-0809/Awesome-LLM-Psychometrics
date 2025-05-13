@@ -1,7 +1,26 @@
-# 🎭 Awesome-LLM-Psychometrics  
+# 🎭 Awesome-LLM-Psychometrics
+
+<p align="center">
+  <img src="https://img.shields.io/badge/arXiv-TODO-red?logo=arxiv&logoColor=white" alt="arXiv">
+  <img src="https://img.shields.io/badge/LLM-Evaluation-blueviolet?logo=openai&logoColor=white" alt="LLM Evaluation">
+  <img src="https://img.shields.io/badge/AI-Psychology-orange?logo=google-scholar&logoColor=white" alt="AI Psychology">
+  <img src="https://img.shields.io/badge/awesome-list-ff69b4?logo=github&logoColor=white" alt="Awesome List">
+  <img src="https://img.shields.io/badge/Contributed%20by-community-brightgreen?logo=github&logoColor=white" alt="Contributed by Community">
+</p>
 
 
-This repository accompanies the paper [Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement](./assets/llm_psychometrics_review.pdf). It contains a curated list of Large Language Models (LLMs) psychometrics resources. 
+<p align="center">
+  <img src="./assets/logo.png" width="40%" />
+</p>
+
+> 🌐 **Project Website:** [https://llm-psychometric.com](https://llm-psychometric.com)
+
+
+
+
+This repository accompanies the paper [Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement](./assets/llm_psychometrics_review.pdf). It contains a curated list of Large Language Models (LLMs) psychometrics resources. We will continue to update this repository as we find new resources. We would greatly appreciate it if you could contribute to this repository by submitting a pull request or an issue.
+
+
 
 ---
 
@@ -23,6 +42,24 @@ This repository accompanies the paper [Large Language Model Psychometrics: A Sys
   - 📂 [Psychology of Language](#-psychology-of-language)  
   - 📂 [Learning and Cognitive Capabilities](#-learning-and-cognitive-capabilities)  
 ---
+
+## 📝 Citation
+
+If you find this repository useful, please cite the paper as follows:
+
+```bibtex
+@article{ye2025llmpsychometrics,
+  title={Large Language Model Psychometrics: A Systematic Review of Evaluation, Validation, and Enhancement},
+  author={Ye, Haoran and Jin, Jing and Xie, Yuhang, and Zhang, Xin and Song, Guojie},
+  year={2025},
+}
+```
+
+
+## 📄 TODO
+
+- [ ] Add tags to each entry
+
 
 ## 🧠 Constructs & Categories  
 
