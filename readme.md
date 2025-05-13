@@ -45,7 +45,7 @@ This repository accompanies the paper [Large Language Model Psychometrics: A Sys
 
 ## 📝 Citation
 
-If you find this repository useful, please cite the paper as follows:
+If you find this repository useful, we would greatly appreciate it if you could give us a star and cite the paper as follows:
 
 ```bibtex
 @article{ye2025llmpsychometrics,
