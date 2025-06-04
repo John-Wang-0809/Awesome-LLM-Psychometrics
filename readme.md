@@ -14,7 +14,7 @@
   <img src="./assets/logo.png" width="40%" />
 </p>
 
-> 🌐 **Project Website:** [https://llm-psychometric.com](https://llm-psychometric.com)
+> 🌐 **Project Website:** [https://llm-psychometrics.com](https://llm-psychometrics.com)
 
 
 
