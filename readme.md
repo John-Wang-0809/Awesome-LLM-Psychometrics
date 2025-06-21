@@ -263,6 +263,7 @@ If you find this repository useful, we would greatly appreciate it if you could 
 - (*GLOBE*) **Quantifying AI Psychology: A Psychometrics Benchmark for Large Language Models**, 2024.06, [[paper](https://arxiv.org/abs/2406.17675)]
 - (*GLOBE*) **ValueBench: Towards Comprehensively Evaluating Value Orientations and Understanding of Large Language Models**, ACL 2024, [[paper](https://arxiv.org/abs/2406.04214)][[code](https://github.com/Value4AI/ValueBench)]
 - (*SVO*) **Heterogeneous Value Alignment Evaluation for Large Language Models**, AAAI 2024 Workshop, [[paper](https://arxiv.org/abs/2305.17147)][[code](https://github.com/zowiezhang/HVAE)] 
+- (*Others & custom*) **Mind the Value-Action Gap: Do LLMs Act in Alignment with Their Values?**, 2025.01, [[paper](https://arxiv.org/abs/2501.15463)]
 - (*Others & custom*) **Beyond Human Norms: Unveiling Unique Values of Large Language Models through Interdisciplinary Approaches**, 2024.04, [[paper](https://arxiv.org/abs/2404.12744)]
 - (*Others & custom*) **Raising the Bar: Investigating the Values of Large Language Models via Generative Evolving Testing**, 2024.06, [[paper](https://arxiv.org/abs/2406.14230)]
 - (*Others & custom*) **Quantifying AI Psychology: A Psychometrics Benchmark for Large Language Models**, 2024.06, [[paper](https://arxiv.org/abs/2406.17675)]
