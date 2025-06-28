@@ -325,7 +325,7 @@ If you find this repository useful, we would greatly appreciate it if you could 
 - (*Others & Custom*) **Right vs. Right: Can LLMs Make Tough Choices?**, 2024.12, [[paper](https://arxiv.org/abs/2412.19926)]
 
 ### 📂 Attitudes&opinions
-
+- (*Culture*) **Cultural tendencies in generative AI**, 2025.06, Nature Human Behaviour, [[paper](https://www.nature.com/articles/s41562-025-02242-1)]
 - (*ANES*) **Out of One, Many: Using Language Models to Simulate Human Samples**, 2023.02, Political Analysis, [[paper](https://www.cambridge.org/core/journals/political-analysis/article/abs/out-of-one-many-using-language-models-to-simulate-human-samples/035D7C8A55B237942FB6DBAD7CAA4E49)] 
 - (*ANES*) **Synthetic Replacements for Human Survey Data? The Perils of Large Language Models**, 2024.05, Political Analysis, [[paper](https://www.cambridge.org/core/journals/political-analysis/article/synthetic-replacements-for-human-survey-data-the-perils-of-large-language-models/B92267DC26195C7F36E63EA04A47D2FE)]
 - (*ANES*) **CommunityLM: Probing Partisan Worldviews from Language Models**, COLING 2022, [[paper](https://arxiv.org/abs/2209.07065)] 
